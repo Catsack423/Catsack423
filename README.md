@@ -1,7 +1,7 @@
 # ## Hi there 👋 I'm Catsack423
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catsack423&layout=compact&hide_border=true&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catsack423&layout=compact&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
