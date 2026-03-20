@@ -8,7 +8,7 @@
 
 ## 🛠 Tech Stack & Specializations
 
-ด้านล่างนี้คือเครื่องมือที่ผมเชี่ยวชาญในการสร้าง High-performance Systems และ Data-driven Applications
+
 
 ### 🌐 Backend & Systems Development
 * **Languages:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
