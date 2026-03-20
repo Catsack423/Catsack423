@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catsack423&layout=compact&hide_border=true" alt="">
+
 <!--
 **Catsack423/Catsack423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
