@@ -15,7 +15,8 @@
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-* **Frameworks:** * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="16" height="16"> **Laravel (10.x):** Ecosystem (Sanctum, Jetstream, Eloquent, Blade, Livewire 3.0)
+* **Frameworks:**
+*   * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="16" height="16"> **Laravel (10.x):** Ecosystem (Sanctum, Jetstream, Eloquent, Blade, Livewire 3.0)
     * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="16" height="16"> **Rust Ecosystem:** Axum (Web Framework), Tokio (Async Runtime), Tower HTTP
 * **Networking:** Guzzle, Reqwest, Tower-HTTP, Serde (Serialization)
 
