@@ -17,7 +17,6 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 * **Frameworks:** * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="16" height="16"> **Laravel (10.x):** Ecosystem (Sanctum, Jetstream, Eloquent, Blade, Livewire 3.0)
     * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="16" height="16"> **Rust Ecosystem:** Axum (Web Framework), Tokio (Async Runtime), Tower HTTP
-    * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="16" height="16"> **Java:** Spring Boot
 * **Networking:** Guzzle, Reqwest, Tower-HTTP, Serde (Serialization)
 
 ### 📊 Data Science & AI Insights
